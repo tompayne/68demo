@@ -1,17 +1,19 @@
-trigger Winning on Opportunity (
-	before insert, 
-	before update, 
-	before delete, 
-	after insert, 
-	after update, 
-	after delete, 
-	after undelete) {
+trigger Winning on Opportunity (before update) {
+	for (Opportunity opp : trigger.new) {
+		Opportunity oldMap = trigger.oldMap.get(opp.id);
+		system.debug(oldMap.id);
 
-		if (Trigger.isBefore) {
-	    	//call your handler.before method
-	    
-		} else if (Trigger.isAfter) {
-	    	//call handler.after method
-	    
+		Boolean oldOppIsWon = oldMap.StageName.equals('Closed Won');
+		Boolean newOppIsWon = opp.StageName.equals('Closed Won');
+
+		if (!oldOppIsWon && newOppIsWon ){
+			opp.I_am_awesome__c = true;
 		}
+
+
+
+
+	}
+	
+
 }
