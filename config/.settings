@@ -1,0 +1,19 @@
+{
+    "username": "tom@68demo.com", 
+    "project_name": "68demo", 
+    "org_url": "", 
+    "namespace": "", 
+    "metadata_container": "1dco0000000AvGgAAK", 
+    "environment": "production", 
+    "workspace": "/Users/Tom/dev/workspace", 
+    "id": "PGZRWZTPCW5MP2UJMRAF4TZ7TNOJ153S", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

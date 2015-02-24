@@ -1,0 +1,93 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "testFindDups", 
+    "tableDeclaration": {
+        "type": "testFindDups", 
+        "modifiers": [
+            "TEST"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 14, 
+            "line": 3
+        }, 
+        "name": "testFindDups"
+    }, 
+    "key": "01po0000003Yzv5AAC", 
+    "variables": [
+        {
+            "type": "Contact", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 13, 
+                "line": 5
+            }, 
+            "name": "dupContact"
+        }, 
+        {
+            "type": "Lead", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 11
+            }, 
+            "name": "dupLead"
+        }, 
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 17, 
+                "line": 23
+            }, 
+            "name": "dupes"
+        }, 
+        {
+            "type": "Lead", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 26
+            }, 
+            "name": "legitLead"
+        }, 
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 17, 
+                "line": 33
+            }, 
+            "name": "legits"
+        }
+    ], 
+    "id": "01po0000003Yzv5AAC", 
+    "methods": [
+        {
+            "modifiers": [
+                "TEST", 
+                "STATIC"
+            ], 
+            "name": "testDupes", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 26, 
+                "line": 4
+            }, 
+            "returnType": "void", 
+            "type": null
+        }
+    ]
+}
