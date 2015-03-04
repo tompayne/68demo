@@ -142,6 +142,19 @@
         "mmState": "clean", 
         "type": "ApexTrigger"
     }, 
+    "GetRival.trigger": {
+        "createdById": "005o0000000grQUAAY", 
+        "createdByName": "Thomas Payne", 
+        "createdDate": "2015-03-03 19:49:27", 
+        "fileName": "unpackaged/triggers/GetRival.trigger", 
+        "fullName": "GetRival", 
+        "id": "01qo0000000OUGDAA4", 
+        "lastModifiedById": "005o0000000grQUAAY", 
+        "lastModifiedByName": "Thomas Payne", 
+        "lastModifiedDate": "2015-03-03 20:27:43", 
+        "mmState": "clean", 
+        "type": "ApexTrigger"
+    }, 
     "MyController1.cls": {
         "createdById": "005o0000000grQUAAY", 
         "createdByName": "Thomas Payne", 

@@ -25,3 +25,81 @@ Starting new HTTPS connection (1): na17.salesforce.com
 Starting new HTTPS connection (1): na17.salesforce.com
 Starting new HTTPS connection (1): na17.salesforce.com
 Starting new HTTPS connection (1): na17.salesforce.com
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00Do0000000HFOs!AQ8AQEUUOk08WPAZaczSCiYyae2ch92Orcuxvi0XP3jYobKo12AunM7V7M6E2AHcKVisnKWu__uq1lc5wQVjx_yAq9XsNny3</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
+Starting new HTTPS connection (1): na17.salesforce.com
